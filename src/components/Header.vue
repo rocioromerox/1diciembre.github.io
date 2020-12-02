@@ -104,8 +104,6 @@ export default {
 
     .lista-cursos {
         display: flex;
-        
-       
     }
 
 
