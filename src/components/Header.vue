@@ -106,6 +106,16 @@ export default {
         display: flex;
     }
 
+    /* HEADER MOBILE*/
+    .logo {
+        position: absolute;
+        top:30%;
+    }
+
+    .my-5{
+        position: absolute;
+        left: 70%;
+    }
 
     @media screen and (min-device-width:1366px){
         .contain {
